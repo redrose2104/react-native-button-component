@@ -59,6 +59,7 @@
     "prop-types": "^15.6.1",
     "react": "16.0.0-alpha.12",
     "react-native": "0.47.1",
+    "react-native-svg": "^9.4.0",
     "react-test-renderer": "16.0.0-alpha.12",
     "rimraf": "^2.6.1"
   },
